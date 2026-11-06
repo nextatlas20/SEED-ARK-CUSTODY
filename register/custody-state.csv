@@ -1,0 +1,6 @@
+specimen_id,program_status,state,current_vault,last_applied_event,applied_count,exception_count,valid_void_count
+SP-101,ACTIVE,HELD,V-02,EV-0002,2,0,0
+SP-102,ACTIVE,RELEASED,,EV-0006,2,2,0
+SP-103,QUARANTINED,HELD,V-05,EV-0008,1,1,1
+SP-104,ACTIVE,HELD,V-07,EV-0010,1,1,0
+SP-105,RETIRED,HELD,V-09,EV-0012,1,0,0
